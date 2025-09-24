@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\新增資料夾\ch12_0924\12\12\bin\Debug\netcoreapp3.1\12.exe
+C:\Users\Administrator\Desktop\新增資料夾\ch12_0924\12\12\bin\Debug\netcoreapp3.1\12.deps.json
+C:\Users\Administrator\Desktop\新增資料夾\ch12_0924\12\12\bin\Debug\netcoreapp3.1\12.runtimeconfig.json
+C:\Users\Administrator\Desktop\新增資料夾\ch12_0924\12\12\bin\Debug\netcoreapp3.1\12.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\新增資料夾\ch12_0924\12\12\bin\Debug\netcoreapp3.1\12.dll
+C:\Users\Administrator\Desktop\新增資料夾\ch12_0924\12\12\bin\Debug\netcoreapp3.1\12.pdb
+C:\Users\Administrator\Desktop\新增資料夾\ch12_0924\12\12\obj\Debug\netcoreapp3.1\12.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\新增資料夾\ch12_0924\12\12\obj\Debug\netcoreapp3.1\12.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\新增資料夾\ch12_0924\12\12\obj\Debug\netcoreapp3.1\12.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\新增資料夾\ch12_0924\12\12\obj\Debug\netcoreapp3.1\12.dll
+C:\Users\Administrator\Desktop\新增資料夾\ch12_0924\12\12\obj\Debug\netcoreapp3.1\12.pdb
